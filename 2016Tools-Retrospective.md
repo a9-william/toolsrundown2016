@@ -1,12 +1,4 @@
-# Tools Roundup Blog (plus)
-
-Markdown and graphics resources for the A9 Tools Rundown Series
-
-Markdown pages contain Markdown tables, generated from the included CSV with 'csvtomd'.
-
-Images are captured with a PDF > PNG workflow in The GIMP.
-
-----
+#A9 Tools Roundup Retrospective
 
 ![](tools.png)
 

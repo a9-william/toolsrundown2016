@@ -1,0 +1,11 @@
+,Plugins,API,Wiki Integrations,Chat integration,DVCS integration,Cost/10 users/mo,SaaS,Note
+JIRA,y,y,y,y,y,10,a,
+Trello,n,y,na,y,y,99.9,y,
+Asana,y,y,na,y,n,83.3,y,
+Bugzilla,n,n,na,y,y,0,n,
+Basecamp,y,y,na,y,n,99*,y,Flat fee/unlimited users/monthly
+Request Tracker,y,y,diy,diy,diy,0,n,
+Maniphest,n,y,y,y*,y,200,a,"Part of Phabricator license, one license for all tools"
+Projects,n,y,y,y*,y,200,a,"Part of Phabricator license, one license for all tools"
+Gitlab,y,y,y,y,y,0,a,Free/Optional $199.80 support fee
+Github Issues,n,y,y,y,y,208.3333333,y,part of github enterprise

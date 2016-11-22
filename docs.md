@@ -1,0 +1,8 @@
+              |  Plugins  |  Integrations  |  Chat integration  |  DVCS integration  |  Cost/10 users/mo  |  SaaS  |  Note                                                    |             
+--------------|-----------|----------------|--------------------|--------------------|--------------------|--------|----------------------------------------------------------|-------------
+Confluence    |  y        |  y             |  y                 |  y                 |  10                |  y     |                                                          |             
+MediaWiki     |  n        |  y             |  y                 |  y                 |  0                 |  y     |                                                          |             
+Phriction     |  y        |  y             |  y                 |  y                 |  200               |  a     |  Part of Phabricator license, one license for all tools  |             
+GitHub Pages  |  n        |  n             |  n                 |  y                 |  208.3333333       |  y     |  Part of Github Enterprise                               |             
+GitHub Wiki   |  n        |  n             |  n                 |  n                 |  208.3333333       |  y     |  Part of Github Enterprise                               |             
+GitLab Pages  |  y        |  y             |  y                 |  y                 |  0                 |  a     |  Free/Optional $199.80 support fee                       |  Not WYSIWYG

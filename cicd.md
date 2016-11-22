@@ -1,0 +1,9 @@
+                    |  Plugins  |  Integrations  |  Issue Tracker Integrations  |  Chat integration  |  DVCS integration  |  Cost/10 users/mo  |  SaaS  |                                                        
+--------------------|-----------|----------------|------------------------------|--------------------|--------------------|--------------------|--------|--------------------------------------------------------
+Jenkins             |  y        |  y             |  y                           |  y                 |  y                 |  0                 |  n     |                                                        
+Jenkins Enterprise  |  n        |  y             |  y                           |  y                 |  y                 |  ?                 |  y     |  Contact for price                                     
+Gitlab              |  ?        |  y             |  y                           |  y                 |  y                 |  0                 |  a     |  Free/Optional $199.80 support fee                     
+CircleCI            |  y        |  y             |  y                           |  y                 |  y                 |  50                |  y     |  2 containers                                          
+Travis              |  y        |  y             |  y                           |  y                 |  y                 |  129               |  y     |  2 jobs/unlimited users                                
+Harbormaster        |  y        |  y             |  y                           |  y                 |  y                 |  200               |  a     |  Part of Phabricator license, one license for all tools
+Bamboo              |  y        |  y             |  y                           |  y                 |  y                 |  10                |  a     |                                                        
