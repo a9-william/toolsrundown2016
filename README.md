@@ -46,13 +46,14 @@ A distributed version control system (DVCS) is the central asset repository.
 Services offering a remote repository are shown, as well as a "Do it yourself" Git service.
 
 
-           |  Plugins  |  Integrations  |  Chat integration  |  DVCS integration  |  Cost/10 users/mo  |  SaaS  |                                   
+           |  Plugins  |  Integrations  |  Chat integration  |  Issues integration  |  Cost/10 users/mo  |  SaaS  |                                   
 -----------|-----------|----------------|--------------------|--------------------|--------------------|--------|-----------------------------------
 Github     |  y        |  y             |  y                 |  y                 |  208.3333333       |  y     |  part of github enterprise        
 GitLab     |  n        |  y             |  y                 |  y                 |  0                 |  a     |  Free/Optional $199.80 support fee
 DIY Git    |  n        |  y             |  y                 |  n                 |  0                 |  n     |                                   
 Bitbucket  |  n        |  y             |  y                 |  y                 |  10                |  a     |                                   
 Gitbucket  |  y        |  y             |  y                 |  y                 |  0                 |  n     |                                   
+Diffusion  |  y        |  y             |  y                 |  y                 |  200                 |  y     | SaaS offering is cited                                  
 
 ----
 ### Issue Tracking
