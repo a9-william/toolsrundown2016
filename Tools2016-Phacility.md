@@ -1,4 +1,4 @@
-#2016 Tools Rundown - F/OSS
+#2016 Tools Rundown - Phacility
 
 This post illustrates the all-in-one collab suite from Phacility; Phabricator and friends.
 
@@ -7,13 +7,12 @@ This post illustrates the all-in-one collab suite from Phacility; Phabricator an
 ### Distributed Source Code Management
 
 Diffusion offers similar git access to most of the other tools reviewed in this series.
-Notable differences with Phabricator are:
+Notable features of Diffusion are:
 
-- Differences
-- Differences
-- Differences
-- Differences
-- Differences
+- Cluster capability (prototype only)
+- Create repositories in the web ui
+- Tight, OOTB integration with other Phabricator tools
+- Support for Git, Subversion & Mercurial
 
 ----
 ### Issue Tracking
@@ -25,7 +24,9 @@ Issue ownership, status, and transitions are basic, but integrate well with othe
 ----
 ### Collaborative Documentation
 
-Phriction offers a basic documentation collaboration environment using a similar wiki format as other tools, with a more limited syntax and integration surface than Confluence or MediaWiki.
+Phriction offers a basic documentation collaboration environment using "[Remarkup](https://secure.phabricator.com/book/phabricator/article/remarkup/)", a "lightweight" markup language.
+
+Phriction supports extension through plugins, but lacks the diversity of other platforms.
 
 ----
 ### Automation
